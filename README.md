@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-C%23-F89B00?logo=Csharp&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/-HTML-FF5733?logo=HTML&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=HTML5&logoColor=white">&nbsp
 </p>
+
+<h3 align="center">🛠 Tech Blog</h3>
 
 ## 📃 Problem Solving
 
