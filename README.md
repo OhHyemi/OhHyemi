@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white"/>&nbsp
 </p>
 
-<h3 align="center">🛠 Tech Blog</h3>
+<h3 align="center">🧸 Tech Blog 🧸</h3>
+<p align="center">
+  <a href="https://ohhyemi.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-black?logo=github&logoColor=white&link=https://ohhyemi.github.io/"/></a>&nbsp
+</p>
 
 ## 📃 Problem Solving
 
