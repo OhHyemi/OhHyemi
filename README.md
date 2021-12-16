@@ -26,11 +26,6 @@
 
 <br>
 
-<h3 align="center">📝 Tech Blog 📝</h3>
-<p align="center">
-  <a href="https://ohhyemi.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-black?logo=github&logoColor=white&link=https://ohhyemi.github.io/"/></a>&nbsp
-</p>
-
 ## 📃 Problem Solving (a.k.a Algorithm)
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
@@ -39,3 +34,8 @@
 <p align="center">
   <a href="https://solved.ac/profile/gpal1014"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=gpal1014"></a><br>
 </p>
+
+<br>
+
+## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
+📔Recently Posted...
