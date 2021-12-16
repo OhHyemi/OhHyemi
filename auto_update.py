@@ -1,6 +1,6 @@
 import feedparser
 
-hyemi_blog_rss_url = "https://somjang.tistory.com/rss"
+hyemi_blog_rss_url = "https://ohhyemi.github.io/index.xml"
 rss_feed = feedparser.parse(hyemi_blog_rss_url)
 
 MAX_POST_NUM = 5
