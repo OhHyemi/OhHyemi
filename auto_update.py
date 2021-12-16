@@ -54,6 +54,7 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
+<br>
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
