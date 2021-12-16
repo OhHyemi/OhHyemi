@@ -1,4 +1,19 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyemi%20Oh&fontAlign=80&fontAlignY=40&color=gradient)
+import feedparser
+
+hyemi_blog_rss_url = "https://ohhyemi.github.io/index.xml"
+rss_feed = feedparser.parse(hyemi_blog_rss_url)
+
+MAX_POST_NUM = 6
+
+latest_blog_post_list = ""
+
+for idx, feed in enumerate(rss_feed['entries']):
+    if(idx > MAX_POST_NUM):
+        break
+    feed_date = feed['published_parsed']
+    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+
+markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyemi%20Oh&fontAlign=80&fontAlignY=40&color=gradient)
 
 <h3 align="center">🍑 Me 🍑</h3>
 <p align="center">
@@ -40,10 +55,11 @@
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
-[2021/12/15 - HashTable: 해시테이블](https://ohhyemi.github.io/posts/studying16_hash/) <br>
-[2021/12/13 - 배너를 만들어보자!](https://ohhyemi.github.io/posts/studying15_snap/) <br>
-[2021/12/12 - AlgorithmStudy_백준 2667](https://ohhyemi.github.io/posts/algorithm19_2667/) <br>
-[2021/12/7 - GarbageCollection: 가비지 컬렉션](https://ohhyemi.github.io/posts/studying14_gc/) <br>
-[2021/12/6 - 타이머를 이용해 스킬아이콘을 만들어보자!](https://ohhyemi.github.io/posts/studying13_timer/) <br>
-[2021/12/6 - Tween 만들기 프로젝트 근황](https://ohhyemi.github.io/posts/studying12_tweenmaking/) <br>
-[2021/12/5 - inheritance: 상속](https://ohhyemi.github.io/posts/studying11_inheritance/) <br>
+"""
+
+readme_text = f"{markdown_text}{latest_blog_post_list}"
+
+print(readme_text)
+
+with open("README.md", 'w', encoding='utf-8') as f:
+    f.write(readme_text)
