@@ -17,8 +17,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-C%23-F89B00?logo=Csharp&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=HTML5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/git-FF9900?logo=git&logoColor=white"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=HTML5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/-hugo-2FBB92?logo=hugo&logoColor=white">&nbsp
 </p>
 
 <br>
