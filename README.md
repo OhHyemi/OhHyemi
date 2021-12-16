@@ -26,7 +26,7 @@
 
 <br>
 
-## 📃 Problem Solving (a.k.a Algorithm)
+## 📃 Problem Solving
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
 - Solved.ac: [gpal1014](https://solved.ac/profile/gpal1014)
