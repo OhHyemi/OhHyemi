@@ -3,7 +3,7 @@ import feedparser
 hyemi_blog_rss_url = "https://ohhyemi.github.io/index.xml"
 rss_feed = feedparser.parse(hyemi_blog_rss_url)
 
-MAX_POST_NUM = 5
+MAX_POST_NUM = 6
 
 latest_blog_post_list = ""
 
@@ -41,11 +41,6 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 
 <br>
 
-<h3 align="center">📝 Tech Blog 📝</h3>
-<p align="center">
-  <a href="https://ohhyemi.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-black?logo=github&logoColor=white&link=https://ohhyemi.github.io/"/></a>&nbsp
-</p>
-
 ## 📃 Problem Solving (a.k.a Algorithm)
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
@@ -54,9 +49,16 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 <p align="center">
   <a href="https://solved.ac/profile/gpal1014"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=gpal1014"></a><br>
 </p>
+
+<br>
+
+## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
+📔Recently Posted...
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}" 
+readme_text = f"{markdown_text}{latest_blog_post_list}"
 
-with open("README.md", 'w', encoding='utf-8') as f: 
+print(readme_text)
+
+with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
