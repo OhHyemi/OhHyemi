@@ -1,14 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyemi%20Oh&fontAlign=80&fontAlignY=40&color=gradient)
 
-<h3 align="center">🍑 Me 🍑</h3>
-<p align="center">
-  <a href="https://www.instagram.com/charming_tuna/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/charming_tuna/"/></a>&nbsp
-  <a href="https://www.twitch.tv/charming_tuna"><img src="https://img.shields.io/badge/Twitch-884DFF?logo=Twitch&logoColor=white&link=https://www.twitch.tv/charming_tuna"/></a>&nbsp
-<img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=gpal1014@gmail.com"/>
-</p>  
-
-<br>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">Tech's that I've used at least once</p>
