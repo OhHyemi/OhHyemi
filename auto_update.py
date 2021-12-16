@@ -10,7 +10,7 @@ latest_blog_post_list = ""
 for idx, feed in enumerate(rss_feed['entries']):
     if(idx > MAX_POST_NUM):
         break
-    feed_date = feed['published_pased']
+    feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
 markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hyemi%20Oh&fontAlign=80&fontAlignY=40&color=gradient)
