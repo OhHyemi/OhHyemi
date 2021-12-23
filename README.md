@@ -32,7 +32,7 @@
 📔Recently Posted...
 <br>
 [2021/12/21 - 힉의 법칙](https://ohhyemi.github.io/posts/studying23_ux3/) <br>
-[2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/sutdying22_ux2/) <br>
+[2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/studying22_ux2/) <br>
 [2021/12/19 - IEnumerable과 IEnumerator 그리고 foreach](https://ohhyemi.github.io/posts/studying21_ienumerator_ienumerable/) <br>
 [2021/12/18 - 제이콥의 법칙](https://ohhyemi.github.io/posts/studying20_ux1/) <br>
 [2021/12/18 - const와 readonly](https://ohhyemi.github.io/posts/studying19_const_readonly/) <br>
