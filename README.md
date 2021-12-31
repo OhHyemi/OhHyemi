@@ -17,6 +17,13 @@
 
 <br>
 
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
+</p>
+
+<br>
+
 ## 📃 Problem Solving
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
@@ -27,11 +34,6 @@
 </p>
 
 <br>
-
-## 📃 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
-
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
