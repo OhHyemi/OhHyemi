@@ -40,5 +40,5 @@
 [2021/12/17 - static: 정적](https://ohhyemi.github.io/posts/studying18_static/) <br>
 
 ## 📃 Github stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
