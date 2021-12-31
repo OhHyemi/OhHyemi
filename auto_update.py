@@ -20,7 +20,7 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 <p align="center">Tech's that I've used at least once</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?&logo=C%2B%2B&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-C%23-F89B00?logo=Csharp&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/git-FF9900?logo=git&logoColor=white"/>&nbsp
@@ -32,7 +32,7 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 
 <br>
 
-## 📃 Problem Solving (a.k.a Algorithm)
+## 📃 Problem Solving
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
 - Solved.ac: [gpal1014](https://solved.ac/profile/gpal1014)
@@ -54,3 +54,5 @@ print(readme_text)
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
