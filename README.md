@@ -39,5 +39,5 @@
 [2021/12/17 - static: 정적](https://ohhyemi.github.io/posts/studying18_static/) <br>
 [2021/12/17 - Git(1)](https://ohhyemi.github.io/posts/studying17_git1/) <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=pink) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
