@@ -17,7 +17,7 @@
 
 <br>
 
-## 📃 Problem Solving (a.k.a Algorithm)
+## 📃 Problem Solving
 
 - Baekjoon Online Judge: [gpal1014](https://www.acmicpc.net/user/gpal1014)
 - Solved.ac: [gpal1014](https://solved.ac/profile/gpal1014)
@@ -38,3 +38,5 @@
 [2021/12/18 - 제이콥의 법칙](https://ohhyemi.github.io/posts/studying20_ux1/) <br>
 [2021/12/18 - const와 readonly](https://ohhyemi.github.io/posts/studying19_const_readonly/) <br>
 [2021/12/17 - static: 정적](https://ohhyemi.github.io/posts/studying18_static/) <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
