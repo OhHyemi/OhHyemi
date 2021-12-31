@@ -28,6 +28,10 @@
 
 <br>
 
+## 📃 Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
+
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
@@ -38,7 +42,3 @@
 [2021/12/18 - 제이콥의 법칙](https://ohhyemi.github.io/posts/studying20_ux1/) <br>
 [2021/12/18 - const와 readonly](https://ohhyemi.github.io/posts/studying19_const_readonly/) <br>
 [2021/12/17 - static: 정적](https://ohhyemi.github.io/posts/studying18_static/) <br>
-
-## 📃 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
