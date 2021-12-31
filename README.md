@@ -31,13 +31,10 @@
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
+[2021/12/23 - Git(2)](https://ohhyemi.github.io/posts/studying24_git2/) <br>
 [2021/12/21 - 힉의 법칙](https://ohhyemi.github.io/posts/studying23_ux3/) <br>
-[2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/sutdying22_ux2/) <br>
+[2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/studying22_ux2/) <br>
 [2021/12/19 - IEnumerable과 IEnumerator 그리고 foreach](https://ohhyemi.github.io/posts/studying21_ienumerator_ienumerable/) <br>
 [2021/12/18 - 제이콥의 법칙](https://ohhyemi.github.io/posts/studying20_ux1/) <br>
 [2021/12/18 - const와 readonly](https://ohhyemi.github.io/posts/studying19_const_readonly/) <br>
 [2021/12/17 - static: 정적](https://ohhyemi.github.io/posts/studying18_static/) <br>
-[2021/12/17 - Git(1)](https://ohhyemi.github.io/posts/studying17_git1/) <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
