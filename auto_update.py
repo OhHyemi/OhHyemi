@@ -46,6 +46,10 @@ markdown_text = """![waving](https://capsule-render.vercel.app/api?type=waving&h
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
+
+## 📃 Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
@@ -54,9 +58,3 @@ print(readme_text)
 
 with open("README.md", 'w', encoding='utf-8') as f:
     f.write(readme_text)
-
-"""
-## 📃 Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhHyemi&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhHyemi&show_icons=true&theme=omni) 
-"""
