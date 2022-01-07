@@ -31,10 +31,10 @@
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
+[2022/1/6 - 렌더링 파이프라인](https://ohhyemi.github.io/posts/studying25_graphics1/) <br>
 [2021/12/31 - 밀러의 법칙](https://ohhyemi.github.io/posts/studying24_ux4/) <br>
 [2021/12/23 - Git(2)](https://ohhyemi.github.io/posts/studying24_git2/) <br>
 [2021/12/21 - 힉의 법칙](https://ohhyemi.github.io/posts/studying23_ux3/) <br>
 [2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/studying22_ux2/) <br>
 [2021/12/19 - IEnumerable과 IEnumerator 그리고 foreach](https://ohhyemi.github.io/posts/studying21_ienumerator_ienumerable/) <br>
 [2021/12/18 - 제이콥의 법칙](https://ohhyemi.github.io/posts/studying20_ux1/) <br>
-[2021/12/18 - const와 readonly](https://ohhyemi.github.io/posts/studying19_const_readonly/) <br>
