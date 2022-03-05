@@ -31,10 +31,10 @@
 ## 💻 <a href="https://ohhyemi.github.io/"> Tech Blog </a>
 📔Recently Posted...
 <br>
+[2022/3/4 - Effectivet Csharp9](https://ohhyemi.github.io/posts/effectivet_9/) <br>
 [2022/3/3 - Effective Csharp7,8](https://ohhyemi.github.io/posts/effective_7/) <br>
 [2022/1/6 - 렌더링 파이프라인](https://ohhyemi.github.io/posts/studying25_graphics1/) <br>
 [2021/12/31 - 밀러의 법칙](https://ohhyemi.github.io/posts/studying24_ux4/) <br>
 [2021/12/23 - Git(2)](https://ohhyemi.github.io/posts/studying24_git2/) <br>
 [2021/12/21 - 힉의 법칙](https://ohhyemi.github.io/posts/studying23_ux3/) <br>
 [2021/12/19 - 피츠의 법칙](https://ohhyemi.github.io/posts/studying22_ux2/) <br>
-[2021/12/19 - IEnumerable과 IEnumerator 그리고 foreach](https://ohhyemi.github.io/posts/studying21_ienumerator_ienumerable/) <br>
